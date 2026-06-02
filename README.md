@@ -119,8 +119,8 @@ The training pipeline automatically tests several classifiers. On the benchmark 
 If you have questions, feedback, or would like to collaborate, feel free to reach out:
 
 * **GitHub**: [@anshspc](https://github.com/anshspc)
-* **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username) *(Update with your link)*
-* **Email**: [anshspc@users.noreply.github.com](mailto:anshspc@users.noreply.github.com)
+* **LinkedIn**: [Ansh Shukla](https://www.linkedin.com/in/ansh-shukla-656a211b4/)
+* **Email**: [ianshshuklaoffc@gmail.com](mailto:ianshshuklaoffc@gmail.com)
 
 ---
 
