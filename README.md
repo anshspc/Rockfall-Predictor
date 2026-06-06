@@ -13,7 +13,7 @@ This repository contains the complete ML workflow—from data ingestion and scal
 ## 🚀 Live Demo
 
 You can access and interact with the live running model here:
-👉 **[Live Rockfall Predictor App](https://rockfall-predictor.onrender.com)** *(If deploying to Render, update this URL once active)*
+👉 **[Live Rockfall Predictor App](https://rockfall-predictor-1.onrender.com)**
 
 ---
 
